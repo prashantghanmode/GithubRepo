@@ -1,6 +1,17 @@
 1. I am prashant
-<<<<<<< HEAD
+
 2. Hi prashant,How are you!!!!
-=======
-2. I am Dinesh 
->>>>>>> 89520d4dae5870e4d355c4d983b31cbe4ab3c5a0
+
+3. I am Dinesh 
+
+
+
+
+
+
+
+
+
+4. Agin prashant here
+
+
